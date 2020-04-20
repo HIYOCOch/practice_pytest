@@ -25,5 +25,4 @@ jobs:
         run: |
           pip install pytest
           cd functions/tests
-          ls
           pytest
